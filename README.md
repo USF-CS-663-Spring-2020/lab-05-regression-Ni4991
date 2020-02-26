@@ -1,4 +1,4 @@
 # readme.md
 
-**Name**:  
-**USF email address**:  
+**Name**:  Ni Luo
+**USF email address**:  nluo@dons.usfca.edu
